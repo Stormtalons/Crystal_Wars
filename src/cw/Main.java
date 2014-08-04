@@ -21,7 +21,7 @@ public class Main extends Application
     ScrollPane view;
     AnchorPane grid;
     static HashMap<String, Cell> cells;
-    static int scale = 10;
+    static int scale = 20;
     static Player p1;
     static Label p1Rock;
 
